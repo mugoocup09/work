@@ -5,6 +5,8 @@ public class MainClass {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 	    System.out.println("헬로 자바");
+	    
+	    System.out.println("수정하였음 ! ");
 	    // 한 줄 주석문 -> 컴파일 되지 않는다.
 	    /* 
 	     * 
